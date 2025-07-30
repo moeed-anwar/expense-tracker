@@ -11,7 +11,6 @@ A web application built with **Laravel** and **Tailwind CSS** that allows logged
 - View total balance, income, and expense summary
 - Responsive design using Tailwind CSS
 - Secure authentication and data protection
-- Admin panel for managing all users' transactions (optional)
 
 ---
 
